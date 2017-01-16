@@ -1,3 +1,3 @@
 # PIII Assignment
-# Author: Anas Adurker
-# Music Metadata Extractor 
+Author: Anas Adurker
+Music Metadata Extractor 
